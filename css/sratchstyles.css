@@ -1,0 +1,51 @@
+li {
+    font-style: italic;
+    size: 18px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 15px;
+}
+
+a {
+    color: blue;
+    size: 14px;
+}
+
+.bullet {
+    font-weight: normal;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 12px;
+}
+
+.header {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #555555;
+}
+.bg {
+    background-color: #cccccc;
+    position: absolute
+}
+
+.headersec {
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    height: 350px;
+}
+.midsec {
+    top: 365px;
+    left: 4px;
+    right: 4px;
+    height: 400px;
+}
+.bottomsec {
+    top: 365px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+}
+
